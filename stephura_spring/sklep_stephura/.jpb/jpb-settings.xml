@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ReverseEngineeringSettings">
+    <database-infos>
+      <database-info dbms-id="mysql">
+        <mapping-types>
+          <mapping-type sql-type="VARCHAR" java-class="java.lang.String" />
+          <mapping-type sql-type="INT" java-class="java.lang.Integer" />
+          <mapping-type sql-type="BIT" java-class="java.lang.Boolean" />
+          <mapping-type sql-type="DECIMAL" java-class="java.lang.Float" />
+          <mapping-type sql-type="DATE" java-class="java.sql.Date" />
+        </mapping-types>
+      </database-info>
+    </database-infos>
+  </component>
+</project>
